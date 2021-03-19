@@ -1,0 +1,140 @@
+@font-face {
+  font-family: 'grold_roundedblack';
+  src: url('typesketchbook_-_groldrounded-black-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-black-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedblack_italic';
+  src: url('typesketchbook_-_groldrounded-blackitalic-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-blackitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedbold';
+  src: url('typesketchbook_-_groldrounded-bold-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedbold_italic';
+  src: url('typesketchbook_-_groldrounded-bolditalic-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-bolditalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedextrablack';
+  src: url('typesketchbook_-_groldrounded-extrablack-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-extrablack-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedXBlkIt';
+  src: url('typesketchbook_-_groldrounded-extrablackitalic-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-extrablackitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedextrabold';
+  src: url('typesketchbook_-_groldrounded-extrabold-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-extrabold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedextrabold_italic';
+  src: url('typesketchbook_-_groldrounded-extrabolditalic-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-extrabolditalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedextralight';
+  src: url('typesketchbook_-_groldrounded-extralight-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-extralight-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedXLtIt';
+  src: url('typesketchbook_-_groldrounded-extralightitalic-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-extralightitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_rounded_regularitalic';
+  src: url('typesketchbook_-_groldrounded-italic-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedlight';
+  src: url('typesketchbook_-_groldrounded-light-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedlight_italic';
+  src: url('typesketchbook_-_groldrounded-lightitalic-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-lightitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedmedium';
+  src: url('typesketchbook_-_groldrounded-medium-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedmedium_italic';
+  src: url('typesketchbook_-_groldrounded-mediumitalic-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-mediumitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_rounded_regularregular';
+  src: url('typesketchbook_-_groldrounded-regular-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedsemilight';
+  src: url('typesketchbook_-_groldrounded-semilight-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-semilight-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedsemilight_italic';
+  src: url('typesketchbook_-_groldrounded-semilightitalic-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-semilightitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedthin';
+  src: url('typesketchbook_-_groldrounded-thin-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-thin-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'grold_roundedthin_italic';
+  src: url('typesketchbook_-_groldrounded-thinitalic-webfont.woff2') format('woff2'),
+       url('typesketchbook_-_groldrounded-thinitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

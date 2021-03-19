@@ -1,0 +1,618 @@
+{
+  "header":{
+    "nav_menu": [
+      {
+        "name": "About us"
+      },
+      {
+        "name": "HOW IT WORKS"
+      },
+      {
+        "name": "NON-PROFIT ORGANIZATION"
+      },
+      {
+        "name": "FAQ"
+      },
+      {
+        "name": "CONTACT"
+      }
+    ],
+    "watch_btn": "Watch Video"
+  },
+  "footer": {
+    "footer_nav": [
+      {
+        "name": "About us"
+      },
+      {
+        "name": "HOW IT WORKS"
+      },
+      {
+        "name": "NON-PROFIT ORGANIZATION"
+      },
+      {
+        "name": "FAQ"
+      },
+      {
+        "name": "CONTACT"
+      }
+    ],
+    "other_link": [
+      {
+        "name": "PRIVACY POLICY"
+      },
+      {
+        "name": "TERMS OF USE"
+      }
+    ],
+    "copyright": "© 2020 Shop2Hero"
+  },
+  "home":{
+    "banner": {
+      "scroll" : "Scroll",
+      "banner_heading": "Online Purchase Through",
+      "banner_title": "SHOP2HERO",
+      "banner_subtitle": "AND SUPPORT NON-PROFIT ORGANIZATION",
+      "banner_btn_txt": "START PROCESS"
+    },
+    "stepper_data": {
+      "tab_data": [
+        {
+          "id": "1",
+          "title": "Select a favorite webshop",
+          "subtitle": "We have Hundreds of Brands"
+        },
+        {
+          "id": "2",
+          "title": "non-profit organization",
+          "subtitle": "Select Non-profit Organization"
+        },
+        {
+          "id": "3",
+          "title": "Enter email & Go to the webshop",
+          "subtitle": "Enjoy Your shopping"
+        }
+      ],
+      "next_step_btn": "Go to Next Step",
+      "step_one": {
+        "category_btn": "Category",
+        "webshop_title": "webshop",
+        "search_placeholder": "Search Webshop",
+        "category_data" : [
+          { "name": "all", "title": "All Category" },
+          { "name": "grocery", "title": "grocery" },
+          { "name": "appliances", "title": "Appliances" },
+          { "name": "medical", "title": "medical" },
+          { "name": "Electronics", "title": "Electronics" },
+          { "name": "insurance", "title": "insurance" },
+          { "name": "footwear", "title": "Footwear" },
+          { "name": "heath", "title": "Health" },
+          { "name": "garment", "title": "garment" },
+          { "name": "booking", "title": "booking" },
+          { "name": "vehicle", "title": "vehicle" },
+          { "name": "hotels", "title": "hotels" }
+        ],
+        "card_list" : [
+          {
+            "alt": "AliExpress",
+            "name": "AliExpress",
+            "count": "%5",
+            "category": "medical"
+          },
+          {
+            "alt": "Booking.com",
+            "name": "Booking.com",
+            "count": "%8",
+            "category": "grocery"
+          },
+          {
+            "alt": "Zalando",
+            "name": "Zalando",
+            "count": "%10",
+            "category": "medical"
+          },
+          {
+            "alt": "Walmart",
+            "name": "Walmart",
+            "count": "%7",
+            "category": "grocery"
+          },
+          {
+            "alt": "Amazon",
+            "name": "Amazon",
+            "count": "%4",
+            "category": "grocery"
+          },
+          {
+            "alt": "BestBuy",
+            "name": "BestBuy",
+            "count": "%8",
+            "category": "grocery"
+          },
+          {
+            "alt": "AliExpress",
+            "name": "AliExpress",
+            "count": "%5",
+            "category": "insurance"
+          },
+          {
+            "alt": "Booking.com",
+            "name": "Booking.com",
+            "count": "%8",
+            "category": "booking"
+          },
+          {
+            "alt": "Zalando",
+            "name": "Zalando",
+            "count": "%10",
+            "category": "garment"
+          },
+          {
+            "alt": "Walmart",
+            "name": "Walmart",
+            "count": "%7",
+            "category": "insurance"
+          },
+          {
+            "alt": "Amazon",
+            "name": "Amazon",
+            "count": "%4",
+            "category": "Health"
+          },
+          {
+            "alt": "BestBuy",
+            "name": "BestBuy",
+            "count": "%8",
+            "category": "grocery"
+          },
+          {
+            "alt": "AliExpress",
+            "name": "AliExpress",
+            "count": "%5",
+            "category": "Appliances"
+          },
+          {
+            "alt": "Booking.com",
+            "name": "Booking.com",
+            "count": "%8",
+            "category": "grocery"
+          },
+          {
+            "alt": "Zalando",
+            "name": "Zalando",
+            "count": "%10",
+            "category": "Health"
+          },
+          {
+            "alt": "Walmart",
+            "name": "Walmart",
+            "count": "%7",
+            "category": "Electronics"
+          },
+          {
+            "alt": "Amazon",
+            "name": "Amazon",
+            "count": "%4",
+            "category": "Appliances"
+          },
+          {
+            "alt": "BestBuy",
+            "name": "BestBuy",
+            "count": "%8",
+            "category": "grocery"
+          },
+          {
+            "alt": "AliExpress",
+            "name": "AliExpress",
+            "count": "%5",
+            "category": "grocery"
+          },
+          {
+            "alt": "Booking.com",
+            "name": "Booking.com",
+            "count": "%8",
+            "category": "Electronics"
+          },
+          {
+            "alt": "Zalando",
+            "name": "Zalando",
+            "count": "%10",
+            "category": "Footwear"
+          },
+          {
+            "alt": "Walmart",
+            "name": "Walmart",
+            "count": "%7",
+            "category": "Electronics"
+          },
+          {
+            "alt": "Amazon",
+            "name": "Amazon",
+            "count": "%4",
+            "category": "Appliances"
+          },
+          {
+            "alt": "BestBuy",
+            "name": "BestBuy",
+            "count": "%8",
+            "category": "grocery"
+          }
+        ]
+      },
+      "step_two": {
+        "category_btn": "Category",
+        "org_title": "Organization",
+        "search_placeholder": "Search Organization",
+        "category_data" : [
+          { "name": "all", "title": "All Category" },
+          { "name": "health", "title": "Health" },
+          { "name": "charity", "title": "Charity" },
+          { "name": "medical", "title": "medical" }
+        ],
+        "card_list" : [
+          {
+            "alt": "wwf",
+            "name": "WWF",
+            "count": "$30,000 +",
+            "category": "medical",
+            "content": "The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States. \n\n The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States."
+          },
+          {
+            "alt": "American Red Cross",
+            "name": "American Red Cross",
+            "count": "$18,000 +",
+            "category": "Charity",
+            "content": "The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States. \n\n The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States."
+          },
+          {
+            "alt": "Habital",
+            "name": "Habital",
+            "count": "$50,000 +",
+            "category": "Health",
+            "content": "The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States. \n\n The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States."
+          },
+          {
+            "alt": "Charity Water",
+            "name": "Charity Water",
+            "count": "$17,000 +",
+            "category": "Charity",
+            "content": "The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States. \n\n The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States."
+          },
+          {
+            "alt": "Guidestar",
+            "name": "Guidestar",
+            "count": "$56660 +",
+            "category": "Health",
+            "content": "The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States. \n\n The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States."
+          }
+        ]
+      },
+      "step_three":{
+        "title": "Subscribe to our newsletter",
+        "sub_title": "For Newsletter and get the everyday best offer",
+        "skip_btn": "skip this step",
+        "list_item": [
+          "Newsletter and offer",
+          "New webshops notifications",
+          "New Organizations",
+          "Amount the selected Org. has received"
+        ]     
+      }
+    },
+    "popular_sec" : {
+      "title": "POPPULAR WEBSHOPS",
+      "button": "VIEW ALL WEBSHOPES"
+    },
+    "how_it_works_sec" : {
+      "title": "HOW IT WORKS?",
+      "work_list": [
+        {
+          "id": 1,
+          "alt": "search",
+          "title": "SELECT THE WEBSHOP",
+          "content": "Search or Select the Web Shop you Where to Buy"
+        },
+        {
+          "id": 2,
+          "alt": "search",
+          "title": "Select Non-Profit Organization",
+          "content": "Search or Select the Non-Profit Organization"
+        },
+        {
+          "id": 3,
+          "alt": "search",
+          "title": "GO TO WEBSHOP",
+          "content": "Enjoy the Shopping and Support Non-Profit Organization"
+        }
+      ]
+    },
+    "company_sec": {
+      "info_alt": "Buy",
+      "info_content": [
+        {
+          "id": 1,
+          "alt": "search",
+          "title": "150+",
+          "content": "Non-Profit Organization"
+        },
+        {
+          "id": 2,
+          "alt": "search",
+          "title": "1,00,000+",
+          "content": "Purchase through SHOP2HERO"
+        },
+        {
+          "id": 3,
+          "alt": "search",
+          "title": "$10,000",
+          "content": "Amount Collected"
+        }
+      ]
+    },
+    "org_sec": {
+      "title": "WE SUPPORT TO POPULAR Non-Profit Organization",
+      "btn_txt": "VIEW ALL ORGANIZATION"
+    },
+    "testiminial_sec":{
+      "title":"HAPPY CUSTOMERS",
+      "card_list": [
+        {
+          "id": 1,
+          "title": "Morbi leo risus, porta ac consectetur ac, vestibulum",
+          "description":
+            "Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vestibulum id ligula porta felis euismod semper.",
+          "alt": "wwf",
+          "name": "Pharetra",
+          "designation": "Nullam Quam"
+        },
+        {
+          "id": 2,
+          "title": "Cum sociis natoque penatibus et magnis dis parturient",
+          "description":
+            "Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vestibulum id ligula porta felis euismod semper.",
+          "alt": "wwf",
+          "name": "Ullamcorper Dolor",
+          "designation": "Magna"
+        },
+        {
+          "id": 3,
+          "title": "Cras justo odio, dapibus ac facilisis in, egestas eget quam",
+          "description":
+            "Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vestibulum id ligula porta felis euismod semper.",
+          "alt": "wwf",
+          "name": "Ipsum Tristique",
+          "designation": "Fringilla Ridiculus"
+        },
+        {
+          "id": 4,
+          "title": "Morbi leo risus, porta ac consectetur ac, vestibulum",
+          "description":
+            "Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vestibulum id ligula porta felis euismod semper.",
+          "alt": "wwf",
+          "name": "Pharetra",
+          "designation": "Nullam Quam"
+        }
+      ]
+    },
+    "news_sec": {
+      "title": "Subscribe to our newsletter",
+      "sub_title": "For Newsletter and get the everyday best offer",
+      "scroll": "TOP"
+    }
+  },
+  "how_it_works": {
+    "title": "HOW IT WORKS",
+    "step_content_data": [
+      {
+        "alt": "step1",
+        "title": "SELECT THE WEBSHOP",
+        "content": "Buyer/Customer will have the chance to look for his preferred shop through hundreds of webshop’s partners."
+      },
+      {
+        "alt": "step2",
+        "title": "SELECT THE WEBSHOP",
+        "content": "Buyer/Customer will have the chance to look for his preferred shop through hundreds of webshop’s partners."
+      },
+      {
+        "alt": "step3",
+        "title": "Re-Direct theWebshop",
+        "content": "Buyer/Customer will be automatically redirected to the selected webshop."
+      },
+      {
+        "alt": "step4",
+        "title": "Manage for Non-Profit Org",
+        "content": "After the buyer has made his purchase and this one is validated by the webshop. Shop2Hero will send the bonus money to the Non-profit Organization."
+      }
+    ],
+    "explain_video": {
+      "title":"EXPLANATION VIDEO",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    }
+  },
+  "ngo_page": {
+    "pop_sec": {
+      "title": "WE SUPPORT TO POPULAR Non-Profit Organization",
+      "btn_txt": "Register a new Nonprofit",
+      "cat_txt": "Category",      
+      "cat_data": [
+        { "name": "all", "title": "All Category" },
+        { "name": "health", "title": "Health" },
+        { "name": "charity", "title": "Charity" },
+        { "name": "medical", "title": "medical" }
+      ],
+      "card_list_data": [
+        {
+          "alt": "wwf",
+          "name": "WWF",
+          "count": "$30,000 +",
+          "category": "medical",
+          "content": "The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States. \n\n The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States."
+        },
+        {
+          "alt": "American Red Cross",
+          "name": "American Red Cross",
+          "count": "$18,000 +",
+          "category": "Charity",
+          "content": "The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States. \n\n The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States."
+        },
+        {
+          "alt": "Habital",
+          "name": "Habital",
+          "count": "$50,000 +",
+          "category": "Health",
+          "content": "The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States. \n\n The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States."
+        },
+        {
+          "alt": "Charity Water",
+          "name": "Charity Water",
+          "count": "$17,000 +",
+          "category": "Charity",
+          "content": "The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States. \n\n The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States."
+        },
+        {
+          "alt": "Guidestar",
+          "name": "Guidestar",
+          "count": "$56660 +",
+          "category": "Health",
+          "content": "The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States. \n\n The American Red Cross, also known as The American National Red Cross, is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States."
+        }
+      ]
+    }
+  },
+  "faq_page": {
+    "banner": {
+      "title": "Hello, how can we help?",
+      "content": "or choose a category to quickly find the help you need",
+      "help_card" : [
+        {
+          "alt": "gemeral",
+          "title": "General"
+        },
+        {
+          "alt": "gemeral",
+          "title": "HOW IT WORKS"
+        },
+        {
+          "alt": "gemeral",
+          "title": "Help Process"
+        },
+        {
+          "alt": "gemeral",
+          "title": "Information"
+        }
+      ]
+    },
+    "faq_main_sec": {
+      "title": "HOW IT WORKS",
+      "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.",
+      "accordian_data": [
+        {
+          "title": "How it works the website",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+          "title": "CAN I add My NON-PROFIT ORGANIZATION?",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+          "title": "How can I Register my NON-PROFIT ORGANIZATION?",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+          "title": "How will get benefits to the NON-PROFIT ORGANIZATION",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+          "title": "how many web-store registered with your website?",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+          "title":
+            "if I return my order then still get the benefits to the NON-PROFIT ORGANIZATION",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        }
+      ]
+    }
+  },
+  "contact_page": {
+    "title": "WE’RE HERE TO HELP!",
+    "content": "ASK US EVERYTHING AND WE’D LOVE TO HERE FROM YOU",
+    "contact_card":[
+      {
+        "email": "support@Shop2Hero.com",
+        "content": "The best way to get answer faster."
+      },
+      {
+        "phone": "+1-202-555-0199",
+        "content": "We are always happy to help."
+      }
+    ]
+  },
+  "about_page": {
+    "banner_title": "About us",
+    "content_data":{
+      "title": "WE SUPPORT TO POPULAR Non-Profit Organization", 
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. \n\n It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "img_alt": "About",
+      "sec_title": "Where does it come from?",
+      "sec_content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. \n\n It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. \n\n Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.",
+      "block_quote": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text.",
+      "last_para":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+    }
+  },
+  "newsletter_form": {
+    "placeholder": "Email Address",
+    "email_validate": "Email address is required",
+    "email_imvalidate": "Invalid email"
+  },
+  "contact_form": {
+    "title": "Send us a Message",
+    "f_name": "First Name",
+    "fname_validate": "First Name is required",
+    "l_name": "Last Name",
+    "lname_validate": "Last Name is required",
+    "e_address": "Email Address",
+    "email_validate": "Email address is required",
+    "p_number": "Phone Number",
+    "subject_label": "Subject",
+    "subject_validate": "Subject is required",
+    "subject_placeholder": "Type Subject",
+    "message_label": "Message",
+    "submit_btn": "Submit"
+  },
+  "register_ngo_form": {
+    "form_title": "Register Your \n Non-Profit Organization",
+    "general_info": "General information",
+    "org_name": "Organization Name",
+    "org_name_valid": "Organization Name is required",
+    "org_id": "Organization ID",
+    "org_id_valid": "Organization ID is required",
+    "description": "Description",
+    "description_place": "Description of Organization",
+    "langauge_label": "Language",
+    "upload_label": "Upload Logo",
+    "no_file_txt": "No File Choosen",
+    "upload_btn": "Upload",
+    "cat_label": "Category",
+    "member_label": "Number of Members",
+    "address_info": "Address information",
+    "org_street": "Organization Street",
+    "stree_name": "Street Number and Name",
+    "postal_code": "Postal code",
+    "city_label": "City",
+    "country_label": "Country",
+    "representative": "Representative",
+    "representative_name": "Representative’s Name",
+    "representative_name_valid": "Representative’s Name is required",
+    "representative_email": "Email Address",
+    "representative_email_valid": "Email Address is required",
+    "representative_phone": "Mobile Phone",
+    "representative_ofc_phone": "Office Phone",
+    "bank_detail": "Bank details",
+    "acc_name": "Bank Name",
+    "acc_num": "Account Number",
+    "swift_code": "Swift code",
+    "bic": "BIC",
+    "submit_btn": "Submit"
+  }
+}
