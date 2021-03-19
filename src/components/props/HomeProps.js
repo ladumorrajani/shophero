@@ -1,5 +1,4 @@
 import { images } from "../../config/images";
-import React from "react";
 
 export const HomeProps = {
   bannerProps: {

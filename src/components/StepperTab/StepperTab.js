@@ -3,12 +3,12 @@ import { StepperStyle } from "./StepperTab.styles.js";
 
 const StepperTab = (props) => {
   const {
-    tabs = tabs || [],
+    // tabs = tabs || [],
     activeTab,
     setTab,
-    isEdit = false,
+    // isEdit = false,
     editTabArr = [],
-    components = components || [],
+    components,
   } = props;
   return (
     <StepperStyle>
